@@ -9,7 +9,7 @@ Neither model surpassed the GLEU scores achieved by a a CNN architecture model f
 
 # Summary of files
 
-* **data** contains the model generated predictions, as well as the fine-tuning log from the training.
+* **data** contains the model generated predictions, as well as the fine-tuning log from the fine-tuning.
 * **notebooks** contains copies of the notebooks used on google colab to execute the fine-tuning for both small and base models
 
 # Citations
